@@ -34,10 +34,6 @@ To use the stopwatch:
 
 Feel free to explore the code and customize the stopwatch according to your needs!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Show your support
 
 If you find this project helpful, consider giving it a ⭐️ on GitHub!
