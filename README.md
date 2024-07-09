@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-  <img alt="Stopwatch Demo" src="./readme-bg.jpg" />
+  <img alt="Stopwatch Demo" src="./Stop-Watch-main/readme-bg.jpg" />
 </div>
 
 ## Table of Contents
