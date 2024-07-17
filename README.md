@@ -3,7 +3,11 @@
 </h2>
 
 <div align="center">
+<<<<<<< HEAD
   <img alt="Stopwatch Demo" src="./StopWatch-Preview.png" />
+=======
+  <img alt="Stopwatch Demo" src="./Stop-Watch-main/readme-bg.jpg" />
+>>>>>>> 6caf4d03e7ddca4b7c2ab6cb8a86684d1df1d8e3
 </div>
 
 ## Table of Contents
@@ -11,6 +15,10 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
+<<<<<<< HEAD
+=======
+- [License](#license)
+>>>>>>> 6caf4d03e7ddca4b7c2ab6cb8a86684d1df1d8e3
 
 ## Introduction
 
